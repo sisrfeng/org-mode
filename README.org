@@ -7,8 +7,8 @@
 
   Text outlining and task management for Vim based on [[http://orgmode.org/][Emacs' Org-Mode]].
 
-  The idea for this plugin was born by listening to the
-  [[http://twit.tv/floss136][Floss Weekly podcast]] introducing Emacs Org-Mode.
+  The idea for this plugin was born by listening to the  [[http://twit.tv/floss136][Floss Weekly podcast]] introducing Emacs Org-Mode.
+
   Org-Mode has a lot of strong features like folding, views (sparse tree) and
   scheduling of tasks.  These are completed by hyperlinks, tags, todo states,
   priorities aso.
